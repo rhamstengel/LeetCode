@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/rhamstengel/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rhamstengel/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/rhamstengel/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rhamstengel/LeetCode/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
