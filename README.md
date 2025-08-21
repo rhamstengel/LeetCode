@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rhamstengel/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rhamstengel/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhamstengel/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
 | [0739-daily-temperatures](https://github.com/rhamstengel/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rhamstengel/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rhamstengel/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,12 +76,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/rhamstengel/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhamstengel/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rhamstengel/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rhamstengel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
