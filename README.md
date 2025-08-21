@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rhamstengel/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhamstengel/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/rhamstengel/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/rhamstengel/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/rhamstengel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rhamstengel/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/rhamstengel/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rhamstengel/LeetCode/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rhamstengel/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
