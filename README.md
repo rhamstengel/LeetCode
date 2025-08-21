@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rhamstengel/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhamstengel/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rhamstengel/LeetCode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/rhamstengel/LeetCode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/rhamstengel/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/rhamstengel/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rhamstengel/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/rhamstengel/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,5 +143,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rhamstengel/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rhamstengel/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rhamstengel/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rhamstengel/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
